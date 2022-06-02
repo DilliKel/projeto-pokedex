@@ -1,7 +1,7 @@
 # projeto-pokedex
 
-Site da pokedex de Pokémon criado por mim.
+PokeDex criada por mim. Por hora apenas com meus Pokémons favoritos, vou atualizar conforme eu for aprendendo sobre banco de dados.
 
-Para acessar e conferir o site, basta acessar o link :
+<div align="center"> Para conferir a Dex: </p>
 
-https://dillikel.github.io/projeto-pokedex/
+<p align="center"><a href="https://dillikel.github.io/projeto-pokedex/" target="_blank">Clique aqui</a></p>
